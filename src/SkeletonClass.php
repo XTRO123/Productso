@@ -1,6 +1,6 @@
 <?php
 
-namespace XTRO123\productso;
+namespace XTRO123\Productso;
 
 class SkeletonClass
 {
